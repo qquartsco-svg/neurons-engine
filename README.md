@@ -192,3 +192,16 @@ pytest tests/test_neurons.py -v
 **Last Updated**: 2026-01-17  
 **Version**: v1.0.0  
 **Status**: 상용화 준비 완료 ✅
+
+---
+
+## 🧠 Memory Layers (Concept Alignment)
+
+This project uses the same **memory-layer taxonomy** as the Brain Atlas:
+
+- **L0** Ring Attractor → **Neural Intrinsic Memory** (local attractor dynamics)
+- **L1** Grid Engine → **Spatial State Representation**
+- **L2** Hippo Memory → **Contextual / Place Memory**
+- **L3** Cerebellum → **Motor Pattern Optimizer**
+
+See: `~/Desktop/Brain_Atlas/CONCEPTS_MEMORY_LAYERS.md`
